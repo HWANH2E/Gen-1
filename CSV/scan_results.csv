@@ -1,0 +1,3 @@
+url,mode,result,payload,test_url,status_code,timestamp
+https://0a8500d903f06346812520be0010002f.web-security-academy.net/,xss,안전,,,200,2025-06-26 15:33:01
+https://0a8500d903f06346812520be0010002f.web-security-academy.net/,sqli,안전,,,200,2025-06-26 15:33:06
